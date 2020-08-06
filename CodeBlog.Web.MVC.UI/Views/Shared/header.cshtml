@@ -1,0 +1,40 @@
+﻿@model List<CodeBlog.DTO.CategoryDTOs.CategoryMenuDto>
+<nav class="navbar px-md-0 navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
+    <div class="container">
+        <a class="navbar-brand" href="/" style="font-family:Consolas">{Code<i class="text-warning">BLOG}</i></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="oi oi-menu"></span> Menu
+        </button>
+
+        <div class="collapse navbar-collapse" id="ftco-nav">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Kategoriler
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        @foreach (var item in Model)
+                        {
+                            <a class="dropdown-item" href="@Url.Action("BlogsByCategory","Blog",new { catName=item.Name})">@item.Name</a>
+                        }
+                    </div>
+                </li>
+                <li class="nav-item"><a href="/hakkimizda" class="nav-link @(PageSessions.ActivePage=="AboutUs"?"active":"")">Hakkımızda</a></li>
+                <li class="nav-item"><a href="/iletisim" class="nav-link @(PageSessions.ActivePage=="Contact"?"active":"")">İletişim</a></li>
+                @if (UserSessions.CurrentUser == null)
+                {
+                    <li class="nav-item"><a href="/kayit-ol" class="nav-link @(PageSessions.ActivePage=="Register"?"active":"")"><i class="icon-user"></i> Kayıt Ol</a></li>
+
+                    <li class="nav-item"><a href="/giris-yap" class="nav-link @(PageSessions.ActivePage=="Login"?"active":"")"><i class="icon-sign-in"></i> Giriş Yap</a></li>
+                }
+                else
+                {
+                    <li class="nav-item"><a href="/hesabim" class="nav-link @(PageSessions.ActivePage=="MyAccount"?"active":"")"><i class="icon-user"></i> @UserSessions.CurrentUser.FullName</a></li>
+
+                    <li class="nav-item"><a href="@Url.Action("Logout","Account")" class="nav-link"><i class="icon-sign-out"></i> Çıkış Yap</a></li>
+                }
+
+            </ul>
+        </div>
+    </div>
+</nav>

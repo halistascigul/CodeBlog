@@ -1,0 +1,5 @@
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.DTO\bin\Release\CodeBlog.DTO.dll
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.DTO\bin\Release\CodeBlog.DTO.pdb
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.DTO\obj\Release\CodeBlog.DTO.csproj.CoreCompileInputs.cache
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.DTO\obj\Release\CodeBlog.DTO.dll
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.DTO\obj\Release\CodeBlog.DTO.pdb

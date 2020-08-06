@@ -1,0 +1,180 @@
+F:\Yazılım 117\10 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.BLL.dll.config
+F:\Yazılım 117\10 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.BLL.dll
+F:\Yazılım 117\10 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.BLL.pdb
+F:\Yazılım 117\10 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.CORE.dll
+F:\Yazılım 117\10 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DAL.dll
+F:\Yazılım 117\10 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DOMAIN.dll
+F:\Yazılım 117\10 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.dll
+F:\Yazılım 117\10 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Yazılım 117\10 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.CORE.pdb
+F:\Yazılım 117\10 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.CORE.dll.config
+F:\Yazılım 117\10 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DAL.pdb
+F:\Yazılım 117\10 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DAL.dll.config
+F:\Yazılım 117\10 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DOMAIN.pdb
+F:\Yazılım 117\10 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.xml
+F:\Yazılım 117\10 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Yazılım 117\10 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.csprojAssemblyReference.cache
+F:\Yazılım 117\10 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.csproj.CoreCompileInputs.cache
+F:\Yazılım 117\10 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.csproj.CopyComplete
+F:\Yazılım 117\10 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.dll
+F:\Yazılım 117\10 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.pdb
+F:\Yazılım 117\13 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.BLL.dll.config
+F:\Yazılım 117\13 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.BLL.dll
+F:\Yazılım 117\13 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.BLL.pdb
+F:\Yazılım 117\13 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.CORE.dll
+F:\Yazılım 117\13 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DAL.dll
+F:\Yazılım 117\13 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DOMAIN.dll
+F:\Yazılım 117\13 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.dll
+F:\Yazılım 117\13 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Yazılım 117\13 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.CORE.pdb
+F:\Yazılım 117\13 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.CORE.dll.config
+F:\Yazılım 117\13 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DAL.pdb
+F:\Yazılım 117\13 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DAL.dll.config
+F:\Yazılım 117\13 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DOMAIN.pdb
+F:\Yazılım 117\13 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.xml
+F:\Yazılım 117\13 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Yazılım 117\13 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.csprojAssemblyReference.cache
+F:\Yazılım 117\13 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.csproj.CoreCompileInputs.cache
+F:\Yazılım 117\13 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.csproj.CopyComplete
+F:\Yazılım 117\13 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.dll
+F:\Yazılım 117\13 Mayıs 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.pdb
+D:\Soner Hoca\Yazilim 117\14 Haziran 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.BLL.dll.config
+D:\Soner Hoca\Yazilim 117\14 Haziran 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.BLL.dll
+D:\Soner Hoca\Yazilim 117\14 Haziran 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.BLL.pdb
+D:\Soner Hoca\Yazilim 117\14 Haziran 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.CORE.dll
+D:\Soner Hoca\Yazilim 117\14 Haziran 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DAL.dll
+D:\Soner Hoca\Yazilim 117\14 Haziran 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DOMAIN.dll
+D:\Soner Hoca\Yazilim 117\14 Haziran 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.dll
+D:\Soner Hoca\Yazilim 117\14 Haziran 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Soner Hoca\Yazilim 117\14 Haziran 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.CORE.pdb
+D:\Soner Hoca\Yazilim 117\14 Haziran 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.CORE.dll.config
+D:\Soner Hoca\Yazilim 117\14 Haziran 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DAL.pdb
+D:\Soner Hoca\Yazilim 117\14 Haziran 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DAL.dll.config
+D:\Soner Hoca\Yazilim 117\14 Haziran 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DOMAIN.pdb
+D:\Soner Hoca\Yazilim 117\14 Haziran 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.xml
+D:\Soner Hoca\Yazilim 117\14 Haziran 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Soner Hoca\Yazilim 117\14 Haziran 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.csprojAssemblyReference.cache
+D:\Soner Hoca\Yazilim 117\14 Haziran 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.csproj.CoreCompileInputs.cache
+D:\Soner Hoca\Yazilim 117\14 Haziran 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.csproj.CopyComplete
+D:\Soner Hoca\Yazilim 117\14 Haziran 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.dll
+D:\Soner Hoca\Yazilim 117\14 Haziran 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.pdb
+D:\Soner Hoca\Yazilim 117\21 Haziran 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.BLL.dll.config
+D:\Soner Hoca\Yazilim 117\21 Haziran 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.BLL.dll
+D:\Soner Hoca\Yazilim 117\21 Haziran 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.BLL.pdb
+D:\Soner Hoca\Yazilim 117\21 Haziran 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.CORE.dll
+D:\Soner Hoca\Yazilim 117\21 Haziran 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DAL.dll
+D:\Soner Hoca\Yazilim 117\21 Haziran 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DOMAIN.dll
+D:\Soner Hoca\Yazilim 117\21 Haziran 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.dll
+D:\Soner Hoca\Yazilim 117\21 Haziran 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Soner Hoca\Yazilim 117\21 Haziran 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.CORE.pdb
+D:\Soner Hoca\Yazilim 117\21 Haziran 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.CORE.dll.config
+D:\Soner Hoca\Yazilim 117\21 Haziran 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DAL.pdb
+D:\Soner Hoca\Yazilim 117\21 Haziran 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DAL.dll.config
+D:\Soner Hoca\Yazilim 117\21 Haziran 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DOMAIN.pdb
+D:\Soner Hoca\Yazilim 117\21 Haziran 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.xml
+D:\Soner Hoca\Yazilim 117\21 Haziran 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Soner Hoca\Yazilim 117\21 Haziran 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.csprojAssemblyReference.cache
+D:\Soner Hoca\Yazilim 117\21 Haziran 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.csproj.CoreCompileInputs.cache
+D:\Soner Hoca\Yazilim 117\21 Haziran 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.csproj.CopyComplete
+D:\Soner Hoca\Yazilim 117\21 Haziran 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.dll
+D:\Soner Hoca\Yazilim 117\21 Haziran 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.pdb
+D:\Soner Hoca\Yazilim 117\4 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.BLL.dll.config
+D:\Soner Hoca\Yazilim 117\4 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.BLL.dll
+D:\Soner Hoca\Yazilim 117\4 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.BLL.pdb
+D:\Soner Hoca\Yazilim 117\4 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.CORE.dll
+D:\Soner Hoca\Yazilim 117\4 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DAL.dll
+D:\Soner Hoca\Yazilim 117\4 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DOMAIN.dll
+D:\Soner Hoca\Yazilim 117\4 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.dll
+D:\Soner Hoca\Yazilim 117\4 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Soner Hoca\Yazilim 117\4 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.CORE.pdb
+D:\Soner Hoca\Yazilim 117\4 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.CORE.dll.config
+D:\Soner Hoca\Yazilim 117\4 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DAL.pdb
+D:\Soner Hoca\Yazilim 117\4 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DAL.dll.config
+D:\Soner Hoca\Yazilim 117\4 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DOMAIN.pdb
+D:\Soner Hoca\Yazilim 117\4 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.xml
+D:\Soner Hoca\Yazilim 117\4 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Soner Hoca\Yazilim 117\4 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.csprojAssemblyReference.cache
+D:\Soner Hoca\Yazilim 117\4 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.csproj.CoreCompileInputs.cache
+D:\Soner Hoca\Yazilim 117\4 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.csproj.CopyComplete
+D:\Soner Hoca\Yazilim 117\4 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.dll
+D:\Soner Hoca\Yazilim 117\4 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.pdb
+D:\Soner Hoca\Yazilim 117\5 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.BLL.dll.config
+D:\Soner Hoca\Yazilim 117\5 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.BLL.dll
+D:\Soner Hoca\Yazilim 117\5 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.BLL.pdb
+D:\Soner Hoca\Yazilim 117\5 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.CORE.dll
+D:\Soner Hoca\Yazilim 117\5 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DAL.dll
+D:\Soner Hoca\Yazilim 117\5 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DOMAIN.dll
+D:\Soner Hoca\Yazilim 117\5 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.dll
+D:\Soner Hoca\Yazilim 117\5 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Soner Hoca\Yazilim 117\5 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.CORE.pdb
+D:\Soner Hoca\Yazilim 117\5 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.CORE.dll.config
+D:\Soner Hoca\Yazilim 117\5 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DAL.pdb
+D:\Soner Hoca\Yazilim 117\5 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DAL.dll.config
+D:\Soner Hoca\Yazilim 117\5 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DOMAIN.pdb
+D:\Soner Hoca\Yazilim 117\5 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.xml
+D:\Soner Hoca\Yazilim 117\5 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Soner Hoca\Yazilim 117\5 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.csprojAssemblyReference.cache
+D:\Soner Hoca\Yazilim 117\5 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.csproj.CoreCompileInputs.cache
+D:\Soner Hoca\Yazilim 117\5 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.csproj.CopyComplete
+D:\Soner Hoca\Yazilim 117\5 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.dll
+D:\Soner Hoca\Yazilim 117\5 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.pdb
+D:\Soner Hoca\Yazilim 117\18 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.BLL.dll.config
+D:\Soner Hoca\Yazilim 117\18 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.BLL.dll
+D:\Soner Hoca\Yazilim 117\18 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.BLL.pdb
+D:\Soner Hoca\Yazilim 117\18 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.CORE.dll
+D:\Soner Hoca\Yazilim 117\18 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DAL.dll
+D:\Soner Hoca\Yazilim 117\18 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DOMAIN.dll
+D:\Soner Hoca\Yazilim 117\18 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.dll
+D:\Soner Hoca\Yazilim 117\18 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Soner Hoca\Yazilim 117\18 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.CORE.pdb
+D:\Soner Hoca\Yazilim 117\18 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.CORE.dll.config
+D:\Soner Hoca\Yazilim 117\18 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DAL.pdb
+D:\Soner Hoca\Yazilim 117\18 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DAL.dll.config
+D:\Soner Hoca\Yazilim 117\18 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DOMAIN.pdb
+D:\Soner Hoca\Yazilim 117\18 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.xml
+D:\Soner Hoca\Yazilim 117\18 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Soner Hoca\Yazilim 117\18 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.csprojAssemblyReference.cache
+D:\Soner Hoca\Yazilim 117\18 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.csproj.CoreCompileInputs.cache
+D:\Soner Hoca\Yazilim 117\18 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.csproj.CopyComplete
+D:\Soner Hoca\Yazilim 117\18 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.dll
+D:\Soner Hoca\Yazilim 117\18 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.pdb
+D:\Soner Hoca\Yazilim 117\19 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.BLL.dll.config
+D:\Soner Hoca\Yazilim 117\19 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.BLL.dll
+D:\Soner Hoca\Yazilim 117\19 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.BLL.pdb
+D:\Soner Hoca\Yazilim 117\19 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.CORE.dll
+D:\Soner Hoca\Yazilim 117\19 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DAL.dll
+D:\Soner Hoca\Yazilim 117\19 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DOMAIN.dll
+D:\Soner Hoca\Yazilim 117\19 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.dll
+D:\Soner Hoca\Yazilim 117\19 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Soner Hoca\Yazilim 117\19 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.CORE.pdb
+D:\Soner Hoca\Yazilim 117\19 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.CORE.dll.config
+D:\Soner Hoca\Yazilim 117\19 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DAL.pdb
+D:\Soner Hoca\Yazilim 117\19 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DAL.dll.config
+D:\Soner Hoca\Yazilim 117\19 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DOMAIN.pdb
+D:\Soner Hoca\Yazilim 117\19 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.xml
+D:\Soner Hoca\Yazilim 117\19 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Soner Hoca\Yazilim 117\19 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.csprojAssemblyReference.cache
+D:\Soner Hoca\Yazilim 117\19 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.csproj.CoreCompileInputs.cache
+D:\Soner Hoca\Yazilim 117\19 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.csproj.CopyComplete
+D:\Soner Hoca\Yazilim 117\19 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.dll
+D:\Soner Hoca\Yazilim 117\19 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.pdb
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.BLL.dll.config
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.BLL.dll
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.BLL.pdb
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.CORE.dll
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DAL.dll
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DOMAIN.dll
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.dll
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.CORE.pdb
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.CORE.dll.config
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DAL.pdb
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DAL.dll.config
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\CodeBlog.DOMAIN.pdb
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.xml
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.csprojAssemblyReference.cache
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.csproj.CoreCompileInputs.cache
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.csproj.CopyComplete
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.dll
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.BLL\obj\Debug\CodeBlog.BLL.pdb

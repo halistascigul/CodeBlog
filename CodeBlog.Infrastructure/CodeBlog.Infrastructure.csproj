@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{013F1C22-DB01-4F10-AF89-D7A7DC2DA1FB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CodeBlog.Infrastructure</RootNamespace>
+    <AssemblyName>CodeBlog.Infrastructure</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AutoMapper, Version=6.1.1.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005, processorArchitecture=MSIL">
+      <HintPath>..\packages\AutoMapper.6.1.1\lib\net45\AutoMapper.dll</HintPath>
+    </Reference>
+    <Reference Include="Ninject, Version=3.3.1.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ninject.3.3.1\lib\net45\Ninject.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DtoMapping\DtoMapper.cs" />
+    <Compile Include="Modules\BusinessModule.cs" />
+    <Compile Include="Modules\DalModule.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\CodeBlog.BLL\CodeBlog.BLL.csproj">
+      <Project>{EF76601D-5B3B-4420-B350-A72CD878B385}</Project>
+      <Name>CodeBlog.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CodeBlog.CORE\CodeBlog.CORE.csproj">
+      <Project>{A847D5BF-7735-43AF-AEDB-0DEAEA617B3E}</Project>
+      <Name>CodeBlog.CORE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CodeBlog.DAL\CodeBlog.DAL.csproj">
+      <Project>{C4969393-67A0-4903-8142-23B64326C9DF}</Project>
+      <Name>CodeBlog.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CodeBlog.DOMAIN\CodeBlog.DOMAIN.csproj">
+      <Project>{B21695E2-F643-4126-B49F-DAD002694FC6}</Project>
+      <Name>CodeBlog.DOMAIN</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CodeBlog.DTO\CodeBlog.DTO.csproj">
+      <Project>{C8F88EE3-DB64-4B0C-97EC-A4AEF7B79CBF}</Project>
+      <Name>CodeBlog.DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

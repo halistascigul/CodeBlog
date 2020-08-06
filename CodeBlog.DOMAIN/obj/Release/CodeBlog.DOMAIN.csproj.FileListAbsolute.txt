@@ -1,0 +1,12 @@
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.DOMAIN\bin\Release\CodeBlog.DOMAIN.dll
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.DOMAIN\bin\Release\CodeBlog.DOMAIN.pdb
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.DOMAIN\bin\Release\CodeBlog.CORE.dll
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.DOMAIN\bin\Release\EntityFramework.dll
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.DOMAIN\bin\Release\CodeBlog.CORE.pdb
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.DOMAIN\bin\Release\CodeBlog.CORE.dll.config
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.DOMAIN\bin\Release\EntityFramework.xml
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.DOMAIN\obj\Release\CodeBlog.DOMAIN.csprojAssemblyReference.cache
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.DOMAIN\obj\Release\CodeBlog.DOMAIN.csproj.CoreCompileInputs.cache
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.DOMAIN\obj\Release\CodeBlog.DOMAIN.csproj.CopyComplete
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.DOMAIN\obj\Release\CodeBlog.DOMAIN.dll
+D:\Soner Hoca\Yazilim 117\25 Temmuz 2020\CodeBlog.App\CodeBlog.DOMAIN\obj\Release\CodeBlog.DOMAIN.pdb
